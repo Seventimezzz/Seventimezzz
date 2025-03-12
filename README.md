@@ -46,11 +46,11 @@ I'm a Frontend Developer :computer:
 
 ## :brain: Codewars :
 
-[![codewars](https://www.codewars.com/users/GulkinIvan/badges/large)](https://www.codewars.com/users/Seventimezzz)
+[![codewars](https://www.codewars.com/users/Seventimezzz/badges/large)](https://www.codewars.com/users/Seventimezzz)
 
 ## :brain: LeetCode :
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/nekcit98)](https://leetcode.com/u/seventimezzz)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/seventimezzz)](https://leetcode.com/u/seventimezzz)
 
 ---
 
