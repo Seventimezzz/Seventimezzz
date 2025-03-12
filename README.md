@@ -11,7 +11,6 @@ I'm a Frontend Developer :computer:
 - :muscle: I'm hardworking and responsible
 - :alarm_clock: Meet deadlines
 - 🔭 I’m currently working on upgrading my skills
-- :mage_man: Dreaming became a cool guitarist
 - 📫 How to reach me:
 - :email: seventimezzz@gmail.com
 - [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Seventimezzz)
@@ -41,9 +40,9 @@ I'm a Frontend Developer :computer:
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudgedev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seventimezzz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudgedev&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seventimezzz&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :brain: Codewars :
 
